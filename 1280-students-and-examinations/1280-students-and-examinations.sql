@@ -1,0 +1,1 @@
+SELECT s.student_id,sub.subject_id from students s join subjects sub on s.student_id = sub.student_id;
